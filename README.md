@@ -26,7 +26,7 @@ The `model` folder contains our pre-trained models. Since the pre-trained models
 
 [2]  S. Xie and Z. Tu, “Holistically-nested edge detection,” 2015.
 
-[3]  M. Li, Z. Lin, R. Mˇ ech, , E. Yumer, and D. Ramanan, “Photo-sketching: Inferring contour drawings from images,”WACV, 2019.
+[3]  M. Li, Z. Lin, R. M&#x011B;ch, , E. Yumer, and D. Ramanan, “Photo-sketching: Inferring contour drawings from images,”WACV, 2019.
 
 [4]  M. Seitzer,  “pytorch-fid:  FID Score for PyTorch,”, version 0.1.1., 2020.
 
