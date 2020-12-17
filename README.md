@@ -11,7 +11,11 @@ The `model` folder contains our pre-trained models. Since the pre-trained models
 ## References
 
 [1]  A. Xue, “End-to-end chinese landscape painting creation using generative adversarial networks,”2020.
+
 [2]  S. Xie and Z. Tu, “Holistically-nested edge detection,” 2015.
+
 [3]  M. Li, Z. Lin, R. Mˇ ech, , E. Yumer, and D. Ramanan, “Photo-sketching: Inferring contourdrawings from images,”WACV, 2019.
+
 [4]  M. Seitzer,  “pytorch-fid:  FID Score for PyTorch,”, version 0.1.1., 2020.
+
 [5]  J.-Y. Zhu,  T. Park,  P. Isola,  and A. A. Efros,  “Unpaired image-to-image translation usingcycle-consistent adversarial networks,” inComputer Vision (ICCV), 2017 IEEE InternationalConference on, 2017.
